@@ -1,4 +1,4 @@
 print(" This is testing file ")
- a=10
-for li in a:
-	print ("the valoue os {li}".format(li))
+ 
+for li in range(10):
+	print(" The value of {li}".format{li})
